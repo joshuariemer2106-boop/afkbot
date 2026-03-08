@@ -2,7 +2,10 @@
 	"client": {
 		"host": "Happycraft-pJBx.aternos.me",
 		"port": "50456",
-		"username": "Bot"
+		"username": "Bot11212",
+		"offline": true,
+		"raknetBackend": "raknet-native",
+		"connectTimeout": 9000
 	},
 	
 	"! DO NOT EDIT BELOW !": "ONLY IF YOU KNOW WHAT YOU ARE DOING",

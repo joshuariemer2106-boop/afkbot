@@ -1,6 +1,6 @@
 hidden = [".config", "pnpm-lock.yaml", "tsconfig.json", ".gitignore"]
 compile = "clear"
-run = "pnpm run start"
+run = "npm run start"
 
 [gitHubImport]
 	requiredFiles = [".replit", "replit.nix", ".config", "package.json", "pnpm-lock.yaml"]

@@ -22,3 +22,6 @@ run = "pnpm run start"
 [[ports]]
 localPort = 5500
 externalPort = 80
+
+[agent]
+expertMode = true
